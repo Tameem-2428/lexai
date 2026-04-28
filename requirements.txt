@@ -1,0 +1,4 @@
+flask
+groq
+pypdf2
+gunicorn
